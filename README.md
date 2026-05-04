@@ -1,12 +1,16 @@
 # org-mini-toolkit
 
-main : Changelog
+/ (root)
+├─ toolkit.py
+├─ features/README.md
+├─ README.md
+├─ CONTRIBUTORS.md
+├─ CHANGELOG.md
+└─ .gitignore
 
-features : kein Changelog
-
-features/time : Henning
-features/random : Eldin
-features/banner-upgrade : Florian
-features/banner-localization : Anika
+- features/time : Henning 
+- features/random : Eldin 
+- features/banner-upgrade : Florian 
+- features/banner-localization : Anika
 
 Hallo zusammen !!
